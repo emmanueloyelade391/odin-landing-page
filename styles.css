@@ -46,3 +46,12 @@ a {
   font-size: 18px;
   color: #E5E7EB;
 }
+
+.sign-up {
+  color: white;
+  background-color: #3882F6;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 30px;
+  cursor: pointer;
+}
