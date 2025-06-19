@@ -38,6 +38,7 @@ a {
 
 .hero-container {
   display: flex;
+  justify-content: center;
 }
 
 .hero-main-text {
@@ -60,8 +61,13 @@ a {
   cursor: pointer;
 }
 
+.hero-image-container {
+  width: 265.425px;
+  height: auto;
+}
+
 .image {
-  width: 50%;
+  width: 265.425px;
   height: auto;
   object-fit: cover;
 }
