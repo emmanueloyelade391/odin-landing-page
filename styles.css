@@ -84,3 +84,10 @@ a {
   height: auto;
   object-fit: cover;
 }
+
+.random-info {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+  text-align: center;
+}
