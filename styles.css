@@ -92,6 +92,11 @@ a {
   text-align: center;
 }
 
+.illustrations-container {
+  display: flex;
+  flex-direction: row;
+}
+
 .illustration {
   width: 150px;
 }
