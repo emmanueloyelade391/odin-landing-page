@@ -39,6 +39,7 @@ a {
 .hero-container {
   display: flex;
   justify-content: center;
+  gap: 40px;
 }
 
 .hero-text-container {
@@ -54,6 +55,7 @@ a {
 .hero-secondary-text {
   font-size: 18px;
   color: #E5E7EB;
+  margin-bottom: 15px; 
 }
 
 .sign-up {
