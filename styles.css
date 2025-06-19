@@ -36,6 +36,10 @@ a {
   gap: 20px;
 }
 
+.hero-container {
+  display: flex;
+}
+
 .hero-main-text {
   font-size: 48px;
   color: #F9FAF8; 
