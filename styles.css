@@ -85,11 +85,17 @@ a {
   object-fit: cover;
 }
 
+.section-2 {
+  padding-top: 25px;
+  padding-bottom: 100px;
+}
+
 .random-info {
   font-size: 36px;
   color: #1F2937;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 40px;
 }
 
 .illustrations-container {
@@ -101,6 +107,9 @@ a {
 
 .illustration {
   width: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 .illustration-box {
