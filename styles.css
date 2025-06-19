@@ -92,6 +92,10 @@ a {
   text-align: center;
 }
 
+.illustration {
+  width: 150px;
+}
+
 .illustration-box {
   width: 150px;
   height: 150px;
@@ -101,4 +105,5 @@ a {
 
 .subtext {
   color: rgb(101, 101, 101);
+  text-align: center;  
 }
