@@ -64,6 +64,7 @@ a {
 .hero-image-container {
   width: 265.425px;
   height: auto;
+  display: flex;
 }
 
 .image {
