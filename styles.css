@@ -154,14 +154,19 @@ a {
 .section-4 {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  padding: 85px;
 }
 
 .action-container {
   background-color: #3882F6;
-  width: 80%;
+  width: 70%;
   border-radius: 5px;
   display: flex;
   flex-direction: row; 
+  align-items: center;
+  justify-content: space-around;
+  padding: 45px 5px;
 }
 
 .call-to-action {
