@@ -171,18 +171,19 @@ a {
 
 .call-to-action {
   color: white;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .sign-up-prompt {
-  color: white;
+  color: #F9FAF8;
 }
 
 .sign-up-2 {
   color: white;
   background-color: #3882F6;
-  border: 3px solid white;
+  border: 2px solid white;
   border-radius: 5px;
   padding: 8px 30px;
   cursor: pointer;
+  font-weight: 700;
 }
