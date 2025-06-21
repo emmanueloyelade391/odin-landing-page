@@ -136,3 +136,7 @@ a {
   color: #1F2937; 
   font-style: italic;
 }
+
+.quote-owner {
+  font-weight: bold;
+}
