@@ -187,3 +187,8 @@ a {
   cursor: pointer;
   font-weight: 700;
 }
+
+.section-5 {
+  display: flex;
+  flex-direction: row;
+}
