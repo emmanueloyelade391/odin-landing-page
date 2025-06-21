@@ -129,3 +129,10 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+.quote {
+  font-size: 36px;
+  font-weight: lighter;
+  color: #1F2937; 
+  font-style: italic;
+}
