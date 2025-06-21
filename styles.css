@@ -157,6 +157,9 @@ a {
 }
 
 .action-container {
+  background-color: #3882F6;
+  width: 80%;
+  border-radius: 5px;
   display: flex;
   flex-direction: column; 
 }
